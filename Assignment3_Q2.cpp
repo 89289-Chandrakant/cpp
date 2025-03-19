@@ -58,7 +58,7 @@ int menu() {
 int main () {
 
  int number;
-    tollbooth booth);
+    tollbooth booth;
 
     while ((number = menu()) != 0) {
         switch (number) {
